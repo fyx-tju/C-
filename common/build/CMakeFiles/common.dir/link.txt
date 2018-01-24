@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/common.dir/main.cpp.o  -o common -rdynamic -lboost_thread -lboost_system -lboost_filesystem -lboost_timer -lboost_chrono -lboost_serialization -lboost_log -lboost_log_setup -lboost_program_options -lboost_date_time -lboost_atomic -lboost_regex -lpthread 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon_lib.a  CMakeFiles/common_lib.dir/src/boost.cpp.o CMakeFiles/common_lib.dir/src/random.cpp.o
+/usr/bin/ranlib libcommon_lib.a

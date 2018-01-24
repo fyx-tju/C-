@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fyx/git-workspace/C-/common/src/boost.cpp
+mutex
+-
+boost/thread.hpp
+-
+boost/archive/binary_iarchive.hpp
+-
+boost/archive/binary_oarchive.hpp
+-
+boost/unordered_map.hpp
+-
+boost/unordered_set.hpp
+-
+iostream
+-
+fstream
+-
+sstream
+-
+
+/home/fyx/git-workspace/C-/common/src/random.cpp
+iostream
+-
+assert.h
+-
+random
+-
+
